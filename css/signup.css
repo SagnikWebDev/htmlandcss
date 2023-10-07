@@ -6,7 +6,7 @@
 body {
   width: 100vw;
   height: 100vh;
-  background-image: url(/src/codioful-formerly-gradienta-7brhZmwXn08-unsplash.jpg);
+  background-image: url(./src/codioful-formerly-gradienta-7brhZmwXn08-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: 100vw 140vh;
   display: flex;
